@@ -1,0 +1,3 @@
+server.port=8800
+
+security.oauth2.resource.userInfoUri: http://localhost:8700/principal
